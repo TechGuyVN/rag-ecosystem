@@ -11,6 +11,7 @@ langchainhub
 numpy
 pytube
 python-dotenv
+qdrant-client
 ragas
 ragatouille
 requests
